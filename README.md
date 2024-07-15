@@ -1,2 +1,8 @@
-# Snapshot
-The App component in React creates "SnapShot," an image gallery. It filters images from pics.json by category (Mountain, Beach, Bird, Food) and search terms using useState. Users can search or select categories with buttons, making it easy to browse and filter images.
+# React + Vite
+
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+
+Currently, two official plugins are available:
+
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
